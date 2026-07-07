@@ -1,8 +1,13 @@
 ![picture](./picture.jpg)
 
-# milkV Duo S
+Quickstart and example projects for the milkV Duo S board.
 
-User guide: https://milkv.io/docs/duo/getting-started/duos
+You may also be interested in:
+
+- [hello-pico2](https://github.com/San7o/hello-pico2): collection of examples on the Raspberry Pi Pico2.
+- [hello-stm32-blue-pill](https://github.com/San7o/hello-stm32-blue-pill): example projects for the STM32 "Blue Pill"
+- [hello-esp32](https://github.com/San7o/hello-esp32):  Example projects for the ESP32 (private for now)
+- [rpi3B-os](https://github.com/San7o/rpi3b-os): an operating system for the Rasbperry Pi 3B
 
 ## Info
 
@@ -17,6 +22,10 @@ User guide: https://milkv.io/docs/duo/getting-started/duos
 - Ethernet 100Mbps ethernet port(RJ45) onboard
 
 ## Installation
+
+User guide:
+
+    https://milkv.io/docs/duo/getting-started/duos
 
 Download the pre-built image from the official github:
 
