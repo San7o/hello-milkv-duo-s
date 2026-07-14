@@ -44,3 +44,9 @@ ssh root@192.168.42.1
 ```
 
 - The password is `milkv`
+
+## SDK
+
+You can build and configure the Linux image via the official SDK:
+
+    https://github.com/milkv-duo/duo-buildroot-sdk-v2
